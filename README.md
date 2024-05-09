@@ -1,11 +1,10 @@
 <h1 align="center">Hello, I am
-PALLAVI LANGHE.</h1>
+Kishor Dukre.</h1>
 <div>
 <p>
 • Passionate about • product development • exploring technologies <br/>
 • Skills: Javascript, React , Redux, Nodejs <br/>
 • I'm currently exploring Typescript <br/>
-• My Website : https://pallavi-langhe.github.io <br/>
 </p>
 </div>
 
