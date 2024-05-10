@@ -24,7 +24,7 @@ Kishor Dukre.</h1>
 
     
 
-<a href="https://github.com/Pallavi-Langhe"><img src="https://github-readme-stats.vercel.app/api?username=Pallavi-Langhe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pallavi-Langhe GitHub stats" /></a> 
+<a href="https://github.com/Pallavi-Langhe"><img src="https://github-readme-stats.vercel.app/api?username=Pallavi-Langhe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kishor Dukre GitHub stats" /></a> 
 
 
 <!-- <td width="45%">
